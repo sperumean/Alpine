@@ -1,8 +1,8 @@
 #!/bin/sh
 #==============================================================================
-# WRCCDC 2026 - Alpine Router Audit & Hardening Script
-# Target: ontario (192.168.220.2) - Alpine Linux
-# Author: CBU Cyber Club / Cyber Viking LLC
+# 
+# Target: (192.168.220.2) - Alpine Linux
+# Author: Cyber Viking LLC
 #
 # Usage:
 #   ./alpine-router-audit.sh              # Audit only (safe, no changes)
